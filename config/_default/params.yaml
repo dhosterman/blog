@@ -3,9 +3,21 @@
 ############################
 
 author:
-  name: dhosterman
+  name: Daniel Hosterman
   image: author.png
-  greeting: "Your new Qubt site :tada:"
+  greeting: "Hi!
+
+
+
+  I'm Daniel Hosterman, 
+
+  a software engineer, 
+
+  gamer, 
+
+  and photographer 
+
+  living in Durham, NC."
   icon: ":wave:"
 
 ############################
@@ -13,8 +25,9 @@ author:
 ############################
 
 links:
-  - github: https://github.com/dhosterman/blog
-  - link: https://github.com/dhosterman/blog#readme
+  - email: mailto:daniel@danielhosterman.com
+  # - github: https://github.com/dhosterman
+  # - link: https://github.com/dhosterman/blog#readme
   # - website: 
   # - x-twitter: 
   # - mastodon: 
@@ -26,7 +39,6 @@ links:
   # - signal: 
   # - codepen: 
   # - dev: 
-  # - email: 
   # - discord: 
   # - orcid: 
   # - slack: 
@@ -64,7 +76,7 @@ links:
 ## OpenGraph & Twitter Cards
 ###############################
 
-title: blog
-description: "Site build with Qubt & Hugo"
+title: Daniel Hosterman
+description: ""
 images:
   - thumbnail.png
